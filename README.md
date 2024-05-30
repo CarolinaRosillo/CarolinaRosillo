@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hola, soy Carolina Rosillo!
 
-<!--
-**CarolinaRosillo/CarolinaRosillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mí
+Soy una ingeniera de pruebas de software apasionada con experiencia en pruebas manuales y automatizadas. Recientemente completé un bootcamp en TripleTen y estoy emocionada por seguir creciendo en el campo de QA 🤩
 
-Here are some ideas to get you started:
+### Habilidades
+📝 **Pruebas Manuales**  
+👩🏽‍💻 **Pruebas Automatizadas con Selenium WebDriver y Pytest**  
+🛠️ **Herramientas**: Postman, JIRA, PyCharm, Charles, Android Studio, SQL, Figma, entre otras.  
+🤓 **Conocimiento en APIs y estructuras HTTP**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Proyectos Destacados ✨
+- [Urban Routes](https://github.com/carolinarosillo/urban-routes): Una aplicación web de servicio de transporte donde implementé pruebas manuales y automatizadas. Este proyecto me hizo amar la automatización de pruebas 😍. Cuando el navegador comenzó a ejecutar el código simulando las acciones de un usuario real, me imaginé todo lo que la automatización es capaz de hacer. Actualmente estoy muy motivada por aprender más sobre este emocionante mundo de la tecnología.
+
+### Contacto 📞
+- [LinkedIn](https://www.linkedin.com/in/carolinarosillog)
+- [Correo Electrónico](mailto:carolinarosillo43@gmail.com)
