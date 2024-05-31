@@ -1,4 +1,4 @@
-![My Image](https://github.com/CarolinaRosillo/CarolinaRosillo/blob/main/Carolina%20rosillo.png?raw=true)
+![My Image](https://github.com/CarolinaRosillo/CarolinaRosillo/blob/main/Carolina%20rosillo%20(1).png?raw=true)
 
 # 👋 Hola, soy Carolina Rosillo!
 
