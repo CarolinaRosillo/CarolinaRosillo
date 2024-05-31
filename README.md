@@ -1,3 +1,5 @@
+![My Image](https://github.com/CarolinaRosillo/CarolinaRosillo/blob/main/Carolina%20rosillo.png?raw=true)
+
 # 👋 Hola, soy Carolina Rosillo!
 
 ### Sobre mí
