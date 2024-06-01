@@ -23,12 +23,6 @@ Enthusiastic professional with a strong desire to learn and grow in the area of 
 
 ---
 
-### Featured projects ✨
-- [Urban Routes](https://github.com/carolinarosillo/urban-routes)
-
-A web application for transportation service where I implemented manual and automated testing. This project made me fall in love with test automation 😍. When the browser began to execute the code simulating the actions of a real user, I imagined all that automation is capable of. I am currently very motivated to learn more about this exciting world of technology.
-
----
 ### Tools
 
 <p align="center">
@@ -43,8 +37,17 @@ A web application for transportation service where I implemented manual and auto
  <img src="https://github.com/CarolinaRosillo/CarolinaRosillo/blob/main/images/7417376_android%20studio_google_android_logo_icon.png?raw=true" alt="Android Studio" width="100" />  
 <img src="https://github.com/CarolinaRosillo/CarolinaRosillo/blob/main/images/3669167_http_ic_icon.png?raw=true" alt="HTTP" width="100" />
 </p>
-  
-### How to contact me 📞
+
+---
+
+### Featured projects ✨
+- [Urban Routes](https://github.com/carolinarosillo/urban-routes)
+
+A web application for transportation service where I implemented manual and automated testing. This project made me fall in love with test automation 😍. When the browser began to execute the code simulating the actions of a real user, I imagined all that automation is capable of. I am currently very motivated to learn more about this exciting world of technology.
+
+---
+
+### Contact me 📞
 
 [<img src="https://github.com/CarolinaRosillo/CarolinaRosillo/blob/main/images/5296501_linkedin_network_linkedin%20logo_icon.png?raw=true" width="50">](https://www.linkedin.com/in/carolinarosillog)
 [<img src="https://github.com/CarolinaRosillo/CarolinaRosillo/blob/main/images/7089163_gmail_google_icon.png?raw=true" width="50">](mailto:carolinarosillo43@gmail.com)
