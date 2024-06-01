@@ -2,11 +2,11 @@
 
 # 👋 Hi, I am Carolina Rosillo!
 
-### About me
+### About me 🙆🏽‍♀️
 Enthusiastic professional with a strong desire to learn and grow in the area of software testing 🤩🚀
 
 ---
-### Some facts
+### Some facts 💼
 
 - 🔭 I recently completed an online Bootcamp at TripleTen as a QA Engineer💪🏽
 
@@ -23,7 +23,7 @@ Enthusiastic professional with a strong desire to learn and grow in the area of 
 
 ---
 
-### Tools
+### Tools 🛠️
 
 <p align="center">
   <img src="https://github.com/CarolinaRosillo/CarolinaRosillo/blob/main/images/4373216_jira_logo_logos_icon.png?raw=true" alt="JIRA" width="100" />
